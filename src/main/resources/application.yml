@@ -1,0 +1,7 @@
+aws:
+  dynamodb:
+    endpoint:
+  access:
+    key:
+    secret-key:
+  region: us-east-1
